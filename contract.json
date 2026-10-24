@@ -1,0 +1,11 @@
+{
+    "contract_id": "bodhi.medicine.v1",
+    "identity": "100048777766367/medicine",
+    "archetype": "ACTION_GOLEM",
+    "role": "APOTHECARY_DISPENSER",
+    "network_partners": {
+        "storage": "100048777766367/storage",
+        "cover": "100048777766367/cover"
+    },
+    "io_specification": "I/O (APOTHECARY_DISPENSER)"
+}
